@@ -1,0 +1,27 @@
+|Multi81
+F <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+S2 => inst18.IN0
+S2 => inst20.IN0
+S2 => inst21.IN0
+S2 => inst19.IN0
+S2 => inst2.IN0
+S1 => inst.IN0
+S1 => inst20.IN1
+S1 => inst21.IN1
+S1 => inst16.IN1
+S1 => inst17.IN1
+S0 => inst1.IN0
+S0 => inst21.IN2
+S0 => inst19.IN2
+S0 => inst17.IN2
+S0 => inst15.IN2
+I4 => inst18.IN3
+I6 => inst20.IN3
+I7 => inst21.IN3
+I5 => inst19.IN3
+I0 => inst14.IN3
+I2 => inst16.IN3
+I3 => inst17.IN3
+I1 => inst15.IN3
+
+

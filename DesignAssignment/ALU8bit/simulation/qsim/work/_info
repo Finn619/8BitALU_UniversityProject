@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\TheSa\OneDrive\Documents\LabQuartus\DesignAssignment\ALU\simulation\qsim
+vALU
+Z1 !s100 `b8>G@cB9Ydb39eCdZ_ZJ3
+Z2 I[mZ9hFRDACR37iP;9K<7>0
+Z3 VB@EQ`GI10F[R0RaPHOiCg1
+Z4 dC:\Users\TheSa\OneDrive\Documents\LabQuartus\DesignAssignment\ALU8bit\simulation\qsim
+Z5 w1747890488
+Z6 8ALU.vo
+Z7 FALU.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|ALU.vo|
+Z10 o-work work -O0
+Z11 n@a@l@u
+!i10b 1
+!s85 0
+Z12 !s108 1747890492.230000
+Z13 !s107 ALU.vo|
+!s101 -O0
+vALU_vlg_check_tst
+!i10b 1
+!s100 3VXIBf1C@32e[2FIMbK3F2
+I^DKCMkaD9P[:QLi8MD8nM1
+Z14 VL6EKC^JI4ljla6HNE_WhY2
+R4
+Z15 w1747890486
+Z16 8Waveform10.vwf.vt
+Z17 FWaveform10.vwf.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z18 !s108 1747890492.371000
+Z19 !s107 Waveform10.vwf.vt|
+Z20 !s90 -work|work|Waveform10.vwf.vt|
+!s101 -O0
+R10
+Z21 n@a@l@u_vlg_check_tst
+vALU_vlg_sample_tst
+!i10b 1
+!s100 HUU:>Z9oYFeN5^2XdimKM1
+II>KmbZaVKgL?7Co95c]cT1
+Z22 V=ekVIiaAgAbX3Lo?AmBI^2
+R4
+R15
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+Z23 n@a@l@u_vlg_sample_tst
+vALU_vlg_vec_tst
+!i10b 1
+!s100 VVz^fWY=lKg?lHZHKbQRT0
+Iij:kBWzYZ1f`m4R84kOTb1
+Z24 V>bFnnU[^IecCM5^<l3;]W0
+R4
+R15
+R16
+R17
+Z25 L0 389
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+Z26 n@a@l@u_vlg_vec_tst

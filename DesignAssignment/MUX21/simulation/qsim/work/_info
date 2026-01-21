@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\TheSa\OneDrive\Documents\LabQuartus\Lab3\MUX21\simulation\qsim
+vMulti21
+Z1 I0l:MPc1n1_<`bYUbFIg1Y2
+Z2 VeZD_8;mgJ?YddPhebaLL42
+Z3 dC:\Users\TheSa\OneDrive\Documents\LabQuartus\Lab3\MUX21\simulation\qsim
+Z4 w1743752747
+Z5 8Multi21.vo
+Z6 FMulti21.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@multi21
+!i10b 1
+Z10 !s100 k3mlSCQCgK@4]R?4[g<PS3
+!s85 0
+Z11 !s108 1743752748.335000
+Z12 !s107 Multi21.vo|
+Z13 !s90 -work|work|Multi21.vo|
+!s101 -O0
+vMulti21_vlg_check_tst
+!i10b 1
+!s100 >ElQCF:2zOeIRZRC6B@N82
+IHlfBe8NTXM=K2BKVUG@[61
+VoD6Pe_TcGP8hQ]i040=cm1
+R3
+Z14 w1743752745
+Z15 8Waveform.vwf.vt
+Z16 FWaveform.vwf.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1743752748.535000
+Z18 !s107 Waveform.vwf.vt|
+Z19 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R8
+n@multi21_vlg_check_tst
+vMulti21_vlg_sample_tst
+!i10b 1
+!s100 <iN:U5h>nOO_SRmD:N<7c0
+IA9>WmQdbJ?[E2@EbcmD:h2
+VYA7GzLdfB>LU_FMz>25RS1
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@multi21_vlg_sample_tst
+vMulti21_vlg_vec_tst
+!i10b 1
+!s100 3Vn]Ub^Kl@iIW[J=H4fE`1
+IE5;lTW_Rch2^1U0^V?3WC1
+VojDfL:PVn1KljNBo;f;l`3
+R3
+R14
+R15
+R16
+L0 156
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@multi21_vlg_vec_tst

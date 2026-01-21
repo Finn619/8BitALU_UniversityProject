@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\TheSa\OneDrive\Documents\LabQuartus\DesignAssignment\SU\simulation\qsim
+vShiftingUnit
+Z1 ICM47joAEGa;6;nV^`K:l[0
+Z2 VUL`E4aDKj>lo>eDLH;Q6P1
+Z3 dC:\Users\TheSa\OneDrive\Documents\LabQuartus\DesignAssignment\SU\simulation\qsim
+Z4 w1747035134
+Z5 8ShiftingUnit.vo
+Z6 FShiftingUnit.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@shifting@unit
+!i10b 1
+Z10 !s100 T=B9mK7^?bITDmEXU2^2O0
+!s85 0
+Z11 !s108 1747035135.780000
+Z12 !s107 ShiftingUnit.vo|
+Z13 !s90 -work|work|ShiftingUnit.vo|
+!s101 -O0
+vShiftingUnit_vlg_check_tst
+!i10b 1
+!s100 H3@biaVz3_hdoQXa^HA:S1
+I:]kjHCnV2I>M2?UcPRGKV0
+Ve5L8TdjM6VF>0l2BGWMLX2
+R3
+Z14 w1747035132
+Z15 8Waveform.vwf.vt
+Z16 FWaveform.vwf.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z17 !s108 1747035135.893000
+Z18 !s107 Waveform.vwf.vt|
+Z19 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R8
+n@shifting@unit_vlg_check_tst
+vShiftingUnit_vlg_sample_tst
+!i10b 1
+!s100 ?O1hg4]dA@1MRRSYjJEiC0
+I0<YVImIa_eF6EVP3``oBE2
+Vz8T^KFj[Ez6BAcb6^lQOn0
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@shifting@unit_vlg_sample_tst
+vShiftingUnit_vlg_vec_tst
+!i10b 1
+!s100 ?S[JDWoYokS66KRfU:>]U3
+IA4QY<dT_Xl:A9loaQRH?A3
+VhfWl8ae=f^lO7CZ66zhHC0
+R3
+R14
+R15
+R16
+L0 211
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@shifting@unit_vlg_vec_tst

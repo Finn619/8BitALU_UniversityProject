@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\TheSa\OneDrive\Documents\LabQuartus\DesignAssignment\AU\simulation\qsim
+vArithmeticUnit
+Z1 !s100 V`dV?6=Q<iK4Uh?0Sn=dZ1
+Z2 IU0i4fCV54_RX9bAocfoP=0
+Z3 VOY1FWgghTbIclRaTQ@f_i3
+Z4 dC:\Users\TheSa\OneDrive\Documents\LabQuartus\DesignAssignment\AU\simulation\qsim
+Z5 w1746987570
+Z6 8ArithmeticUnit.vo
+Z7 FArithmeticUnit.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|ArithmeticUnit.vo|
+Z10 o-work work -O0
+Z11 n@arithmetic@unit
+!i10b 1
+!s85 0
+Z12 !s108 1746987571.069000
+Z13 !s107 ArithmeticUnit.vo|
+!s101 -O0
+vArithmeticUnit_vlg_check_tst
+!i10b 1
+Z14 !s100 Y:Wo5]6HGAQiSFU6]IQ=E0
+Z15 I<@ZfaI@aJj@XBC^Uh>Azf3
+Z16 VoiD@dYakhPWlZPZCcGPlR2
+R4
+Z17 w1746987569
+Z18 8Waveform.vwf.vt
+Z19 FWaveform.vwf.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z20 !s108 1746987571.192000
+Z21 !s107 Waveform.vwf.vt|
+Z22 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+Z23 n@arithmetic@unit_vlg_check_tst
+vArithmeticUnit_vlg_sample_tst
+!i10b 1
+Z24 !s100 Je`7LDhU@VH5HBI1UP1em3
+Z25 ITZPXKP<fI;Zobf68ZY8OL2
+Z26 V8__`PXO`Ihme4HXeoFeDn0
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@arithmetic@unit_vlg_sample_tst
+vArithmeticUnit_vlg_vec_tst
+!i10b 1
+!s100 Z7f@[J9QNA`_XV0>DdMPz0
+ISZ2PDFCIOaWb`SJz1_GjH3
+Z28 VoPX940oT3dP5z=BSRIo[P0
+R4
+R17
+R18
+R19
+Z29 L0 263
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@arithmetic@unit_vlg_vec_tst
